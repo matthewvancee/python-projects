@@ -1,6 +1,6 @@
 # Python Projects
 
-A collection of Python projects developed as part of my programming coursework at Hillsborough Community College. These programs demonstrate core problem-solving, clean code practices, and foundational programming concepts including control flow, functions, loops, and file I/O.
+A collection of Python projects developed as part of my programming coursework. These programs demonstrate core problem-solving, clean code practices, and foundational programming concepts including control flow, functions, loops, and file I/O.
 
 ## Projects
 - **Class Ranker** – Calculates and ranks students based on grade and GPA inputs.  
